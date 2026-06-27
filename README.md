@@ -944,17 +944,30 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 # 📬 Contact
 
-Project Email
 
-YOUR_TEAM_EMAIL@example.com
-
-GitHub
 
 https://github.com/202510085/Waha-Smart-Rural-Services-Platform
 
-Live Demo
+# 🔑 Demo Account | حساب تجريبي
 
-https://arabic-rtl-app-ai-as-29nb.bolt.host/
+Users can either create their own account or use the demo account below to explore the platform quickly.
+
+يمكن للمستخدمين إنشاء حساب خاص بهم، أو استخدام الحساب التجريبي التالي لتجربة المنصة بسرعة.
+
+| Login Information | Details                                   |
+| ----------------- | ----------------------------------------- |
+| 📧 Email Address  | **[waha@waha.com](mailto:waha@waha.com)** |
+| 🔒 Password       | **waha1234**                              |
+
+> **English:** You may register with your own email and password to test the full user experience, or use the demo account for quick access.
+
+> **العربية:** يمكنكم التسجيل باستخدام بريدكم وكلمة مرور خاصة لتجربة المنصة بالكامل، أو استخدام الحساب التجريبي للدخول السريع.
+
+> **Note:** The demo account is for presentation and testing purposes only.
+
+
+> **ملاحظة (العربية):** هذا الحساب مخصص للتجربة والعرض فقط.
+
 
 ---
 
