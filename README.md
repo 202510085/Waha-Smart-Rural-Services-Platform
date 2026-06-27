@@ -994,9 +994,6 @@ United Arab Emirates University
 
 </div>
 
+## Homepage
 
-<img src="https://media.discordapp.net/attachments/1444686675006591047/1520453505528238180/image.png?ex=6a41402c&is=6a3feeac&hm=df8a5e24a45f42f3be01a3a7e2da9a48ffa8117ab8ebc79621d7302816cd2124&=&format=webp&quality=lossless&width=1522&height=856" alt="Waha Screenshot" width="900"/>
-
-
-
-<img src="https://cdn.discordapp.com/attachments/1444686675006591047/1520453505528238180/image.png?ex=6a41402c&is=6a3feeac&hm=df8a5e24a45f42f3be01a3a7e2da9a48ffa8117ab8ebc79621d7302816cd2124&"/>
+<img src="[docs/screenshots/homepage.png](https://cdn.discordapp.com/attachments/1444686675006591047/1520453505528238180/image.png?ex=6a41402c&is=6a3feeac&hm=df8a5e24a45f42f3be01a3a7e2da9a48ffa8117ab8ebc79621d7302816cd2124&)" alt="Waha Homepage" width="900"/>
