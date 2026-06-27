@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="[public/waha-logo.svg](https://cdn.discordapp.com/attachments/1444686675006591047/1520461961505144942/file_000000005c3c71f4ab87b50fb3c1490b.png?ex=6a41480c&is=6a3ff68c&hm=46468e8b72c201b591fdb8d39b98e10824c9d1353e86f24f9967313264813958&)" alt="Waha Logo" width="230"/>
+<p align="center">
+  <img src="docs/screenshots/homepage.svg" alt="Waha Homepage" width="1000"/>
+</p>
 
 # 🌴 Waha | واحة
 
