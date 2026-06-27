@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Waha market preview">
+  <rect width="1280" height="720" fill="#fbf5ec"/>
+  <rect x="70" y="60" width="1140" height="110" rx="28" fill="#fff7df" stroke="#ead7b7"/>
+  <text x="1080" y="125" text-anchor="end" font-family="Arial,Tahoma" font-size="42" font-weight="800" fill="#143b2d">السوق المحلي</text>
+  <text x="1080" y="154" text-anchor="end" font-family="Arial,Tahoma" font-size="20" fill="#6b746b">بيع وشراء منتجات المجتمع الريفي والمزادات</text>
+  <rect x="90" y="200" width="1100" height="58" rx="20" fill="#f59e0b"/><text x="640" y="237" text-anchor="middle" font-family="Arial,Tahoma" font-size="22" font-weight="700" fill="#fff">+ إضافة منتج جديد</text>
+  <rect x="90" y="285" width="1100" height="48" rx="18" fill="#fff" stroke="#eee3d1"/><text x="1080" y="315" text-anchor="end" font-family="Arial,Tahoma" font-size="17" fill="#a3a3a3">ابحث في السوق...</text>
+  <g fill="#fff" stroke="#eadfd0"><rect x="90" y="380" width="340" height="250" rx="22"/><rect x="470" y="380" width="340" height="250" rx="22"/><rect x="850" y="380" width="340" height="250" rx="22"/></g>
+  <rect x="90" y="380" width="340" height="120" rx="22" fill="#e6d0a2"/><rect x="470" y="380" width="340" height="120" rx="22" fill="#d8b75c"/><rect x="850" y="380" width="340" height="120" rx="22" fill="#c7e6c8"/>
+  <text x="1140" y="535" text-anchor="end" font-family="Arial,Tahoma" font-size="26" font-weight="800" fill="#143b2d">تمر خلاص فاخر</text><text x="1140" y="575" text-anchor="end" font-family="Arial,Tahoma" font-size="20" fill="#047857">30 درهم / كجم</text>
+  <text x="760" y="535" text-anchor="end" font-family="Arial,Tahoma" font-size="26" font-weight="800" fill="#143b2d">مزاد خروف</text><text x="760" y="575" text-anchor="end" font-family="Arial,Tahoma" font-size="20" fill="#b45309">أعلى مزايدة: 950 درهم</text>
+  <text x="380" y="535" text-anchor="end" font-family="Arial,Tahoma" font-size="26" font-weight="800" fill="#143b2d">عسل محلي</text><text x="380" y="575" text-anchor="end" font-family="Arial,Tahoma" font-size="20" fill="#047857">منتج متاح للبيع</text>
+</svg>
