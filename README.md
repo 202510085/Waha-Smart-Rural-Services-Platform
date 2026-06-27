@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/waha-logo.svg" alt="Waha Logo" width="220"/>
+<img src="public/waha-logo.svg" alt="Waha Logo" width="230"/>
 
 # 🌴 Waha | واحة
 
@@ -10,22 +10,28 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Google-Gemini_AI-F9AB00?logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bolt.new-App-000000"/>
+
 <img src="https://img.shields.io/badge/Arabic-RTL-success"/>
-<img src="https://img.shields.io/badge/Tatweer-Hackathon%202026-gold"/>
+
+<img src="https://img.shields.io/badge/Tatweer-Hackathon_2026-orange"/>
 
 </p>
 
 ---
 
-### 🇬🇧 Smart Rural Services Platform powered by Artificial Intelligence
+### 🇬🇧 Connecting Rural Communities Through Technology
 
-### 🇦🇪 منصة ذكية للخدمات الريفية مدعومة بالذكاء الاصطناعي
+### 🇦🇪 ربط المجتمعات الريفية بالتقنية
 
 ---
 
@@ -43,31 +49,51 @@ https://github.com/202510085/Waha-Smart-Rural-Services-Platform
 
 ## 📧 Contact
 
-**Team Email**
-
 YOUR_TEAM_EMAIL@example.com
 
----
-
 </div>
+
+---
 
 # 📖 Overview | نبذة عن المشروع
 
 ## 🇬🇧 English
 
-**Waha** is an AI-powered rural services platform designed specifically for the rural communities of **Al Qua'a** and **Al Ain**, United Arab Emirates.
+**Waha** is a smart rural services platform powered by Artificial Intelligence and cloud technologies.
 
-The platform centralizes essential community services into one unified digital ecosystem, making it easier for residents to communicate, access services, report issues, sell local products, participate in community events, and receive intelligent assistance through Artificial Intelligence.
+The platform was designed specifically for **Al Qua'a** and rural communities in **Al Ain**, United Arab Emirates.
 
-Instead of using multiple disconnected applications and communication channels, Waha offers a single smart platform that improves accessibility, community engagement, and service efficiency.
+Instead of using different applications for different services, Waha provides one intelligent platform where residents can:
+
+- Access health services
+- Request transportation
+- Report community issues
+- Buy and sell products
+- Join local events
+- Receive agriculture support
+- Publish announcements
+- Communicate with an Arabic AI assistant
+
+The objective is to improve service accessibility while strengthening community interaction through one modern digital platform.
 
 ---
 
 ## 🇦🇪 العربية
 
-**واحة** هي منصة ذكية للخدمات الريفية تم تطويرها خصيصًا لخدمة مجتمع **القوع** والمناطق الريفية في **مدينة العين** بدولة الإمارات العربية المتحدة.
+**واحة** هي منصة ذكية للخدمات الريفية مدعومة بالذكاء الاصطناعي وتقنيات الحوسبة السحابية.
 
-تجمع المنصة جميع الخدمات المجتمعية في مكان واحد، مما يسهل على السكان الوصول إلى الخدمات، رفع البلاغات، بيع المنتجات المحلية، المشاركة في الفعاليات، طلب النقل، والاستفادة من المساعد الذكي باللغة العربية.
+تم تطوير المنصة خصيصًا لخدمة سكان **القوع** والمناطق الريفية في **مدينة العين** بدولة الإمارات العربية المتحدة.
+
+بدلاً من استخدام عدة تطبيقات وخدمات متفرقة، تجمع واحة جميع الخدمات في منصة واحدة تتيح للمستخدم:
+
+- الوصول للخدمات الصحية
+- طلب وسائل النقل
+- رفع البلاغات
+- بيع وشراء المنتجات
+- المشاركة في الفعاليات
+- الاستفادة من الخدمات الزراعية
+- نشر الإعلانات
+- استخدام مساعد ذكي باللغة العربية
 
 ---
 
@@ -75,37 +101,35 @@ Instead of using multiple disconnected applications and communication channels, 
 
 ## 🇬🇧
 
-Rural communities usually depend on fragmented communication methods.
+Residents in rural communities often struggle to access services because they are distributed across different communication channels.
 
-Residents often struggle to:
+Common challenges include:
 
-- Find nearby services.
-- Sell local products.
-- Report community issues.
-- Access transportation.
-- Discover local events.
-- Reach healthcare services.
-- Receive agriculture guidance.
+- Selling local products
+- Reporting infrastructure issues
+- Finding nearby health services
+- Discovering local events
+- Requesting transportation
+- Accessing agriculture support
 
-The lack of one unified platform reduces service accessibility and slows community interaction.
+These disconnected services reduce efficiency and community engagement.
 
 ---
 
 ## 🇦🇪
 
-تعتمد المجتمعات الريفية غالبًا على وسائل متفرقة للتواصل والحصول على الخدمات.
+يعتمد سكان المجتمعات الريفية غالبًا على وسائل متفرقة للوصول إلى الخدمات.
 
-يواجه السكان صعوبة في:
+ومن أبرز التحديات:
 
-- الوصول إلى الخدمات.
-- بيع المنتجات المحلية.
-- رفع البلاغات.
-- طلب وسائل النقل.
-- معرفة الفعاليات.
-- الوصول للخدمات الصحية.
-- الحصول على الدعم الزراعي.
+- بيع المنتجات المحلية
+- رفع البلاغات
+- الوصول للخدمات الصحية
+- معرفة الفعاليات
+- طلب وسائل النقل
+- الحصول على الدعم الزراعي
 
-ولا توجد منصة واحدة تجمع جميع هذه الخدمات بطريقة سهلة وذكية.
+ولا توجد منصة موحدة تجمع جميع هذه الخدمات بطريقة سهلة وذكية.
 
 ---
 
@@ -113,64 +137,51 @@ The lack of one unified platform reduces service accessibility and slows communi
 
 ## 🇬🇧
 
-Waha solves this challenge by combining all rural community services into one intelligent digital platform powered by Artificial Intelligence.
+Waha combines multiple community services into one intelligent platform powered by Artificial Intelligence.
 
-The system integrates:
+The platform integrates:
 
-- Smart AI Assistant
 - Local Marketplace
 - Community Reports
 - Community Events
 - Announcements
+- Smart Transport
 - Health Services
 - Agriculture Services
-- Emergency Services
-- Smart Transport
+- Emergency SOS
+- AI Assistant
 
-Everything is connected through a modern cloud backend using Supabase and enhanced with Google Gemini AI.
+All services are connected using Supabase cloud infrastructure and Google Gemini AI.
 
 ---
 
 ## 🇦🇪
 
-تقدم منصة واحة جميع الخدمات الريفية في منصة واحدة مدعومة بالذكاء الاصطناعي.
+تجمع منصة واحة جميع خدمات المجتمع الريفي في منصة واحدة مدعومة بالذكاء الاصطناعي.
 
-تجمع المنصة:
+تشمل المنصة:
 
-- المساعد الذكي
 - السوق المحلي
-- البلاغات المجتمعية
+- البلاغات
 - الفعاليات
 - الإعلانات
+- النقل الذكي
 - الخدمات الصحية
 - الخدمات الزراعية
 - الطوارئ
-- النقل الذكي
+- المساعد الذكي
 
-وتعتمد على قاعدة بيانات Supabase مع دمج Google Gemini AI لتقديم تجربة ذكية باللغة العربية.
+وتعتمد على قاعدة بيانات Supabase مع دمج Google Gemini AI.
 
 ---
 
 # ⭐ Why Waha?
 
-Unlike traditional service platforms, **Waha** combines multiple community services into one unified Arabic-first platform.
+Unlike traditional applications, Waha combines multiple rural services into one Arabic-first platform.
 
-## Key Advantages
+Residents no longer need to switch between different applications.
 
-- 🌴 Rural-first experience.
-- 🤖 AI-powered Arabic assistant.
-- 📍 GPS-enabled services.
-- 🛒 Local marketplace with auctions.
-- 📢 Community announcements.
-- 📅 Event registration.
-- 🚨 Community reporting.
-- 🚑 Health services.
-- 🌾 Agriculture AI.
-- 🚗 Smart transport.
-- 🆘 Emergency SOS.
-- 👨‍💼 Secure Admin Dashboard.
-- 🌙 Dark Mode.
-- 📱 Fully Responsive UI.
+Everything becomes available in one place.
 
 ---
 
@@ -179,48 +190,46 @@ Unlike traditional service platforms, **Waha** combines multiple community servi
 ## 🏠 Smart Homepage
 
 - Arabic RTL Interface
-- Quick Actions
-- Live Statistics
-- Latest Updates
-- AI Shortcut
+- Responsive Design
 - Dark Mode
-- Mobile Responsive
+- Real Statistics
+- Latest Updates
+- Quick Actions
+- AI Shortcut
 
 ---
 
 ## 🛒 Local Marketplace
 
-- Product publishing
+- Product Publishing
 - Categories
+- Product Images
 - Auctions
-- Product gallery
-- Multiple images
-- Live bidding
-- GPS location
+- Live Bidding
 - Search
-- Filtering
-- Product management
+- Filters
+- GPS Support
 
 ---
 
 ## 📢 Community Announcements
 
-- Publish announcements
-- Images
+- Publish Announcements
 - Categories
+- Images
 - Date & Time
-- GPS support
+- GPS Location
 
 ---
 
 ## 📅 Community Events
 
-- Create events
-- Register attendees
-- Event tickets
-- Search
+- Create Events
+- Event Registration
+- Ticket Generation
 - Categories
-- GPS support
+- Search
+- Location Support
 
 ---
 
@@ -231,145 +240,146 @@ Unlike traditional service platforms, **Waha** combines multiple community servi
 - Water
 - Safety
 - Cleanliness
-- Image upload
+- Image Upload
 - GPS
-- Report status tracking
+- Status Tracking
 
 ---
 
 ## 🚑 Health Services
 
-- Nearby health centers
-- Consultation requests
-- Contact information
+- Nearby Health Centers
+- Consultation Requests
+- Contact Information
 - Directions
-- GPS support
+- GPS Support
 
 ---
 
-## 🌾 Agriculture
+## 🌴 Agriculture
 
-- AI Crop Scan
-- Crop image upload
-- Agriculture consultation
-- Palm tree support
+- Crop Scan using AI
+- Agriculture Consultation
+- Camera Support
+- Gallery Upload
+- Palm Tree Support
 
 ---
 
 ## 🚗 Smart Transport
 
-- Ride requests
-- Destination selection
-- GPS
-- Smart transport requests
+- Ride Requests
+- Destination Selection
+- GPS Support
+- Smart Transport Assistance
 
 ---
 
-## 🆘 Emergency
+## 🆘 Emergency SOS
 
-- SOS
-- Emergency numbers
-- Quick access
-- Location sharing
+- Quick Emergency Access
+- Emergency Numbers
+- Location Sharing
 
 ---
 
 ## 🤖 Smart AI Assistant
 
-- Arabic understanding
-- English understanding
-- Voice input
-- Smart navigation
-- Form auto-fill
-- Intent detection
-- Real Supabase answers
-- Gemini AI integration
-- Fallback mode
-# 🤖 Artificial Intelligence | الذكاء الاصطناعي
+- Arabic Understanding
+- English Understanding
+- Voice Input
+- Intent Detection
+- Smart Navigation
+- Automatic Form Filling
+- Real Database Responses
+- Crop Analysis
+- Safe Fallback Mode
 
-Waha integrates **Google Gemini AI** to provide a smart Arabic-first assistant that understands natural language and helps residents complete tasks faster.
+  # 🤖 Artificial Intelligence | الذكاء الاصطناعي
 
-## AI Capabilities
+Waha integrates **Google Gemini AI** to provide an intelligent Arabic-first digital assistant capable of understanding natural language and helping users complete tasks faster.
 
-### 🧠 Smart Intent Detection
+---
 
-The assistant understands what the user wants without navigating menus.
+## 🧠 AI Capabilities
+
+### Smart Intent Detection
+
+The assistant understands user intentions without requiring manual navigation.
 
 Example:
-
-User:
 
 ```text
 أريد أبيع تمر خلاص فاخر
 ```
 
-Assistant automatically:
+Automatically:
 
-- Opens Local Marketplace
-- Opens Add Product Form
-- Fills Product Name
-- Selects Category
-- Suggests Auction or Sale
+✅ Opens Local Marketplace
+
+✅ Opens Add Product Form
+
+✅ Selects Category
+
+✅ Prefills Product Name
 
 ---
 
-User:
+Example
 
 ```text
 الشارع مظلم
 ```
 
-Assistant automatically:
+Automatically:
 
-- Opens Community Reports
-- Chooses Lighting Report
-- Prefills Report Type
-- Suggests GPS Location
+✅ Opens Community Reports
+
+✅ Selects Lighting Report
+
+✅ Prefills Report Details
 
 ---
 
-User:
+Example
 
 ```text
 أحتاج سيارة لمستشفى توام
 ```
 
-Assistant automatically:
+Automatically:
 
-- Opens Smart Transport
-- Opens Ride Request
-- Sets Destination
+✅ Opens Smart Transport
+
+✅ Opens Ride Request
+
+✅ Prefills Destination
 
 ---
 
-User:
+Example
 
 ```text
 ما الفعاليات القادمة؟
 ```
 
-Assistant:
-
-- Reads real data from Supabase
-- Lists upcoming events
-- Opens Events page if requested
+The assistant reads real data from Supabase and displays upcoming events instead of generating fake information.
 
 ---
 
 ## AI Features
 
-- Arabic NLP
-- English NLP
+- Arabic Natural Language Understanding
+- English Language Support
+- Smart Intent Detection
 - Context Awareness
-- Intent Detection
-- Smart Navigation
-- Automatic Form Filling
+- Form Auto Fill
 - Crop Image Analysis
 - Real Data Responses
 - Voice Input
-- Voice Output
-- Safe Fallback Mode
 - Conversation Memory
+- Safe Fallback Mode
+- AI Navigation Between Services
 
 ---
 
@@ -381,9 +391,9 @@ Assistant:
 - TypeScript
 - Vite
 - Tailwind CSS
-- Lucide React
 - HTML5
 - CSS3
+- Lucide React Icons
 
 ---
 
@@ -402,51 +412,49 @@ Assistant:
 - Gemini Vision
 - AI Intent Detection
 - AI Crop Analysis
-- AI Form Prefill
-- AI Conversation
+- AI Assistant
 
 ---
 
-## Maps
+## Maps & Location
 
 - Browser Geolocation API
 - Google Maps Directions
 
 ---
 
-## Development
+## Deployment
 
 - Bolt.new
 - GitHub
-- npm
 
 ---
 
-# 🔧 Development Tools Used
+# 🔧 Tools Used
 
 | Tool | Purpose |
 |-------|----------|
-| Bolt.new | Main Application Development |
-| React | Frontend Framework |
+| React | Frontend Development |
 | TypeScript | Type Safety |
-| Vite | Build Tool |
-| Tailwind CSS | Styling |
-| Supabase | Backend & Database |
-| Supabase Storage | Image Storage |
-| Supabase Auth | Authentication |
+| Vite | Fast Build Tool |
+| Tailwind CSS | UI Styling |
+| Supabase | Backend Platform |
 | PostgreSQL | Database |
-| Google Gemini AI | AI Assistant |
+| Supabase Auth | Authentication |
+| Supabase Storage | File Storage |
+| Google Gemini AI | Smart Assistant |
 | Gemini Vision | Crop Analysis |
-| GitHub | Version Control |
-| Lucide React | Icons |
-| Browser Geolocation API | GPS |
+| Browser Geolocation | GPS |
 | Google Maps | Directions |
+| Lucide React | Icons |
+| Bolt.new | Development |
+| GitHub | Version Control |
 
 ---
 
 # 🗄 Database
 
-The platform uses **Supabase PostgreSQL**.
+The project uses **Supabase PostgreSQL**.
 
 Main Tables
 
@@ -458,33 +466,32 @@ Main Tables
 - events
 - event_registrations
 - community_reports
-- agriculture_requests
 - health_requests
+- agriculture_requests
 - ride_requests
-- emergency_requests
 
 ---
 
 # 🏗 System Architecture
 
 ```text
-                    User
-                      │
-                      ▼
-             React + TypeScript
-                      │
-         ┌────────────┼────────────┐
-         ▼            ▼            ▼
-   Gemini AI     Supabase      Browser APIs
-         │            │            │
-         │      Authentication     │
-         │      PostgreSQL         │
-         │      Storage            │
-         │      RLS Policies       │
-         │                         │
-         └────────────┬────────────┘
-                      ▼
-              Smart Rural Platform
+                  User
+                    │
+                    ▼
+        React + TypeScript + Vite
+                    │
+      ┌─────────────┼─────────────┐
+      ▼             ▼             ▼
+ Google Gemini   Supabase      Browser APIs
+      │             │             │
+      │      Authentication       │
+      │      PostgreSQL           │
+      │      Storage              │
+      │      RLS                  │
+      │                           │
+      └─────────────┬─────────────┘
+                    ▼
+             Waha Platform
 ```
 
 ---
@@ -514,14 +521,14 @@ Requested Service
 Supabase Database
     │
     ▼
-Response
+Result
 ```
 
 ---
 
 # 🔒 Security
 
-The application includes:
+The platform implements multiple security layers.
 
 ## Authentication
 
@@ -531,53 +538,55 @@ The application includes:
 
 ---
 
-## Database Security
+## Database
 
 - Row Level Security
-- Admin Role
-- Protected Policies
+- User Ownership Policies
+- Protected Database Access
 - Secure Storage
-- User Ownership
 
 ---
 
-## AI Security
+## AI
 
-- No API Keys Exposed
 - Environment Variables
+- Protected API Keys
 - Safe AI Responses
 - Fallback Protection
 
 ---
 
-## Admin Dashboard
+## User Permissions
 
-Admin users can:
+Normal users:
 
-- Delete Products
-- Delete Events
-- Delete Reports
-- Delete Announcements
-- Moderate Platform Content
-- Review Registrations
+- Can manage only their own content.
 
-Normal users **cannot** access admin functions.
+Platform moderation:
+
+The project structure has been prepared to support future administrator moderation using Supabase role-based permissions.
+
+The hackathon demo focuses on the resident-facing experience, while administrator moderation is planned for future production releases.
 
 ---
 
-# 🌙 User Experience
+# 📱 User Experience
+
+The platform supports:
 
 - Arabic RTL
 - Responsive Design
-- Dark Mode
 - Mobile Friendly
-- Accessible Interface
-- Smooth Navigation
-- Floating AI Assistant
-- Floating SOS
+- Desktop
+- Tablet
+- Dark Mode
+- Light Mode
+- GPS Support
 - Loading States
 - Error Handling
 - Empty States
+- Floating AI Assistant
+- Floating SOS
 
 ---
 
@@ -595,13 +604,13 @@ Normal users **cannot** access admin functions.
 
 ---
 
-## Local Marketplace
+## Marketplace
 
 <img src="docs/screenshots/market.svg" width="900"/>
 
 ---
 
-## Admin Dashboard
+## Community Management Preview
 
 <img src="docs/screenshots/admin.svg" width="900"/>
 
@@ -621,7 +630,7 @@ Development
 npm run dev
 ```
 
-Production Build
+Production
 
 ```bash
 npm run build
@@ -631,7 +640,7 @@ npm run build
 
 # ⚙ Environment Variables
 
-Create `.env`
+Create:
 
 ```env
 VITE_SUPABASE_URL=
@@ -647,7 +656,7 @@ Bolt Secret
 GEMINI_API_KEY=
 ```
 
-Never upload real API Keys.
+Never upload real API keys.
 
 # 📊 Project Statistics
 
@@ -655,13 +664,13 @@ Never upload real API Keys.
 |---------|------:|
 | Frontend Framework | React 18 |
 | Programming Language | TypeScript |
-| Backend | Supabase |
+| Backend Platform | Supabase |
 | Database | PostgreSQL |
 | AI Model | Google Gemini |
 | Authentication | Supabase Auth |
-| Storage | Supabase Storage |
-| Supported Languages | Arabic / English |
+| Cloud Storage | Supabase Storage |
 | Responsive Design | ✅ |
+| Arabic RTL | ✅ |
 | Dark Mode | ✅ |
 | AI Assistant | ✅ |
 | Marketplace | ✅ |
@@ -671,40 +680,41 @@ Never upload real API Keys.
 | Event Registration | ✅ |
 | Announcements | ✅ |
 | Health Services | ✅ |
-| Agriculture AI | ✅ |
+| Agriculture Services | ✅ |
 | Smart Transport | ✅ |
 | Emergency SOS | ✅ |
-| Admin Dashboard | ✅ |
 
 ---
 
-# 👥 User Journey
+# 👥 Main User Flows
 
 ## 👤 Resident
 
 ```text
-Register/Login
-        │
-        ▼
+Register
+    │
+    ▼
+Login
+    │
+    ▼
 Homepage
-        │
-        ▼
+    │
+    ▼
 Choose Service
-        │
-        ▼
+    │
+    ▼
 Marketplace
 Events
 Reports
 Transport
 Health
 Agriculture
-Emergency
 AI Assistant
 ```
 
 ---
 
-## 🌴 Farmer
+## 🌴 Farmer / Seller
 
 ```text
 Login
@@ -719,7 +729,7 @@ Publish Product
 Upload Images
    │
    ▼
-Sell / Auction
+Sell or Auction
 ```
 
 ---
@@ -736,192 +746,181 @@ Create Event
 Publish Announcement
    │
    ▼
-Manage Registrations
+Receive Registrations
 ```
 
 ---
 
-## 👨‍💼 Administrator
+# 🎯 Project Goals
 
-```text
-Admin Login
-      │
-      ▼
-Admin Dashboard
-      │
-      ▼
-Review Content
-      │
-      ▼
-Delete / Moderate
-```
+The project aims to:
+
+- Improve access to rural services.
+- Support local economic activity.
+- Simplify communication between residents.
+- Encourage community participation.
+- Reduce service fragmentation.
+- Provide one unified digital platform.
 
 ---
 
-# 🎯 Why Waha?
+# 🌟 Project Highlights
 
-Unlike traditional applications, Waha combines all major rural community services into one intelligent Arabic-first platform.
+✔ Arabic First
 
-Instead of switching between many systems, residents use one application for:
+✔ AI Powered
 
-- Health
-- Agriculture
-- Marketplace
-- Community Reports
-- Events
-- Announcements
-- Smart Transport
-- Emergency
-- Artificial Intelligence
+✔ Responsive Design
 
-This improves communication, accessibility, and service delivery across rural communities.
+✔ GPS Support
+
+✔ Cloud Database
+
+✔ Secure Authentication
+
+✔ Community Focused
+
+✔ Modern UI/UX
+
+✔ Smart Navigation
+
+✔ Real-Time Data
 
 ---
 
-# 🚀 Future Improvements
+# 📈 Future Improvements
 
-Future roadmap includes:
+The project roadmap includes:
 
+- Mobile Applications (Android & iOS)
 - Push Notifications
-- Mobile Applications (Android / iOS)
 - SMS OTP Verification
 - Municipality Integration
 - Government APIs
 - Weather Forecast Integration
 - AI Recommendations
-- AI Predictive Agriculture
-- Analytics Dashboard
+- AI Analytics
 - Offline Support
-- Multi-language Support
-- QR Check-in for Events
-- Payment Gateway
-- Delivery Services
+- QR Event Check-in
 - Volunteer Management
-- Real-time Notifications
+- Advanced Administration Dashboard
+- Community Statistics Dashboard
+- AI-powered Recommendations
+- Multi-language Support
+
+---
+
+# 📚 Folder Structure
+
+```text
+src/
+│
+├── assets/
+├── components/
+├── lib/
+├── utils/
+├── App.tsx
+├── AssistantPanel.tsx
+├── MarketView.tsx
+├── EventsView.tsx
+├── ReportsView.tsx
+├── HealthView.tsx
+├── AgricultureView.tsx
+├── TransportView.tsx
+├── AccountView.tsx
+│
+public/
+│
+supabase/
+└── migrations/
+```
 
 ---
 
 # 🧪 Testing
 
-The project has been tested on:
-
-- Desktop
-- Mobile
-- Tablet
-
-Browsers:
+Tested on:
 
 - Google Chrome
 - Microsoft Edge
 - Safari
 - Firefox
 
-Supported:
+Devices:
 
-- Light Mode
+- Desktop
+- Tablet
+- Mobile
+
+Verified:
+
 - Dark Mode
-- Arabic RTL
+- Light Mode
 - Responsive Layout
+- Authentication
+- Marketplace
+- Events
+- Reports
+- Agriculture
+- Health
+- Transport
+- AI Assistant
 
 ---
 
-# 📈 Performance
+# 🚀 Deployment
 
-The application focuses on:
+Current Deployment
 
-- Fast Page Loading
-- Responsive User Experience
-- Lazy Data Loading
-- Secure Authentication
-- Optimized Database Queries
-- Mobile-first Design
+**Bolt.new**
 
----
+Live Demo
 
-# 🔑 Environment Configuration
+https://arabic-rtl-app-ai-as-29nb.bolt.host/
 
-Required:
+Source Code
 
-```env
-VITE_SUPABASE_URL=
-
-VITE_SUPABASE_ANON_KEY=
-
-VITE_GEMINI_API_KEY=
-```
-
-Bolt Secret:
-
-```env
-GEMINI_API_KEY=
-```
+https://github.com/202510085/Waha-Smart-Rural-Services-Platform
 
 ---
 
-# 📂 Project Structure
+# 🔒 Security Overview
 
-```text
-src/
- ├── assets/
- ├── components/
- ├── utils/
- ├── lib/
- ├── App.tsx
- ├── AssistantPanel.tsx
- ├── MarketView.tsx
- ├── EventsView.tsx
- ├── ReportsView.tsx
- ├── HealthView.tsx
- ├── AgricultureView.tsx
- ├── TransportView.tsx
- ├── AccountView.tsx
- ├── AdminView.tsx
+The project follows secure development practices.
 
-public/
+Implemented:
 
-supabase/
- ├── migrations/
-```
+- Supabase Authentication
+- Row Level Security (RLS)
+- Protected Database Access
+- Environment Variables
+- Secure Storage
+- User Ownership Policies
+- Protected AI Keys
+
+No sensitive API keys are committed to GitHub.
 
 ---
 
-# 📚 Main Libraries
+# 🤝 Acknowledgements
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+Special thanks to:
+
+- Tatweer Hackathon
+- Athar+
+- United Arab Emirates University
+- Google Gemini
 - Supabase
-- PostgreSQL
-- Lucide React
-- Google Gemini AI
-- Browser Geolocation API
-- Google Maps
+- React Team
+- Vite Team
+- Tailwind CSS
+- Lucide Icons
 - Bolt.new
+- GitHub
 
 ---
 
-# 🏆 Hackathon Submission
-
-Project:
-
-**Waha – Smart Rural Services Platform**
-
-Prepared for:
-
-**Tatweer Hackathon 2026**
-
-Partner:
-
-**Athar+**
-
-Challenge Focus:
-
-Connecting residents to services, opportunities, and events through an intelligent rural platform.
-
----
-
-# 📄 License
+# 📜 License
 
 MIT License
 
@@ -931,33 +930,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ---
 
-# 🙏 Acknowledgements
-
-Special thanks to:
-
-- Tatweer Hackathon
-- Athar+
-- United Arab Emirates University
-- Google Gemini
-- Supabase
-- Bolt.new
-- React Team
-- Vite Team
-- Tailwind CSS
-- Lucide Icons
-- PostgreSQL Community
-
----
-
 # 👨‍💻 Developer
 
 ## Mohammed Ali Almahboobi Alshehhi
 
-United Arab Emirates University
+🎓 United Arab Emirates University
 
-Project:
-
-**Waha – Smart Rural Services Platform**
+🏆 Tatweer Hackathon 2026
 
 ---
 
@@ -977,6 +956,14 @@ https://arabic-rtl-app-ai-as-29nb.bolt.host/
 
 ---
 
+# ❤️ Built For
+
+Tatweer Hackathon 2026
+
+In Partnership with Athar+
+
+---
+
 <div align="center">
 
 # 🌴 Waha | واحة
@@ -987,14 +974,22 @@ https://arabic-rtl-app-ai-as-29nb.bolt.host/
 
 ---
 
-**Connecting Rural Communities Through Technology**
+### Connecting Rural Communities Through Technology
 
-**ربط المجتمعات الريفية بالتقنية**
+### ربط المجتمعات الريفية بالتقنية
 
 ---
 
-⭐ Built with React + TypeScript + Supabase + Google Gemini AI + Bolt.new
+⭐ Powered by
 
-Made with ❤️ for **Tatweer Hackathon 2026**
+React • TypeScript • Supabase • Google Gemini AI • Vite • Tailwind CSS • Bolt.new
+
+---
+
+Made with ❤️ by
+
+**Mohammed Ali Almahboobi Alshehhi**
+
+United Arab Emirates University
 
 </div>
