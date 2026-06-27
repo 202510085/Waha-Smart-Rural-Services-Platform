@@ -3,9 +3,7 @@
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-b9yetl99)
 
 
-
-
-<div align="center"><img src="public/waha-logo.svg" alt="Waha Logo" width="220"/>🌴 Waha | واحة
+<div align="center"><img src="public/waha-logo.svg" alt="Waha Logo" width="360"/>🌴 Waha | واحة
 
 Smart Rural Services Platform
 
@@ -17,10 +15,10 @@ Smart Rural Services Platform
 "Tailwind CSS" (https://img.shields.io/badge/TailwindCSS-Styling-38BDF8)
 "Supabase" (https://img.shields.io/badge/Supabase-Database-3ECF8E)
 "Google Gemini" (https://img.shields.io/badge/Google-Gemini_AI-orange)
-"RTL" (https://img.shields.io/badge/Arabic-RTL-success)
-"Tatweer Hackathon" (https://img.shields.io/badge/Tatweer-Hackathon%202026-gold)
+"Arabic RTL" (https://img.shields.io/badge/Arabic-RTL-success)
+"Tatweer Hackathon" (https://img.shields.io/badge/Tatweer-Hackathon_2026-gold)
 
----
+</div>---
 
 🌐 Live Demo
 
@@ -40,7 +38,7 @@ https://github.com/202510085/Waha-Smart-Rural-Services-Platform
 
 Team Email
 
-YOUR_TEAM_EMAIL@example.com
+"YOUR_TEAM_EMAIL@example.com"
 
 ---
 
