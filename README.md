@@ -49,7 +49,7 @@ https://github.com/202510085/Waha-Smart-Rural-Services-Platform
 
 ## 📧 Contact
 
-YOUR_TEAM_EMAIL@example.com
+202510085@aau.ac.ae
 
 </div>
 
