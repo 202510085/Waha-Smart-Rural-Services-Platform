@@ -594,25 +594,27 @@ The platform supports:
 
 ## Homepage
 
-<img src="docs/screenshots/homepage.svg" width="900"/>
+<img src="https://media.discordapp.net/attachments/1444686675006591047/1520453505528238180/image.png?ex=6a41402c&is=6a3feeac&hm=df8a5e24a45f42f3be01a3a7e2da9a48ffa8117ab8ebc79621d7302816cd2124&=&format=webp&quality=lossless&width=1522&height=856" alt="Waha Homepage" width="900"/>
 
 ---
 
 ## AI Assistant
 
-<img src="docs/screenshots/assistant.svg" width="900"/>
+<div align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1444686675006591047/1520453370857390201/image.png?ex=6a41400c&is=6a3fee8c&hm=6d08a9bcbdb02d01557cd63e27f051616284d8540712d40f8bf3069c04a6fd66&" alt="Waha Screenshot" width="900"/>
+
+</div>
 
 ---
 
 ## Marketplace
 
-<img src="docs/screenshots/market.svg" width="900"/>
+<div align="center">
 
----
+<img src="https://cdn.discordapp.com/attachments/1444686675006591047/1520453505528238180/image.png?ex=6a41402c&is=6a3feeac&hm=df8a5e24a45f42f3be01a3a7e2da9a48ffa8117ab8ebc79621d7302816cd2124&" alt="Waha Homepage" width="900"/>
 
-## Community Management Preview
-
-<img src="docs/screenshots/admin.svg" width="900"/>
+</div>
 
 ---
 
