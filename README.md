@@ -443,3 +443,40 @@ Connecting Rural Communities Through Technology
 Made with ❤️ for Tatweer Hackathon 2026
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="public/waha-logo.svg" alt="Waha Logo" width="360"/>
+
+# 🌴 Waha | واحة
+
+### Smart Rural Services Platform  
+### منصة الخدمات الريفية الذكية
+
+![React](https://img.shields.io/badge/React-18-61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E)
+![Google Gemini](https://
