@@ -285,3 +285,716 @@ Unlike traditional service platforms, **Waha** combines multiple community servi
 - Real Supabase answers
 - Gemini AI integration
 - Fallback mode
+# 🤖 Artificial Intelligence | الذكاء الاصطناعي
+
+Waha integrates **Google Gemini AI** to provide a smart Arabic-first assistant that understands natural language and helps residents complete tasks faster.
+
+## AI Capabilities
+
+### 🧠 Smart Intent Detection
+
+The assistant understands what the user wants without navigating menus.
+
+Example:
+
+User:
+
+```text
+أريد أبيع تمر خلاص فاخر
+```
+
+Assistant automatically:
+
+- Opens Local Marketplace
+- Opens Add Product Form
+- Fills Product Name
+- Selects Category
+- Suggests Auction or Sale
+
+---
+
+User:
+
+```text
+الشارع مظلم
+```
+
+Assistant automatically:
+
+- Opens Community Reports
+- Chooses Lighting Report
+- Prefills Report Type
+- Suggests GPS Location
+
+---
+
+User:
+
+```text
+أحتاج سيارة لمستشفى توام
+```
+
+Assistant automatically:
+
+- Opens Smart Transport
+- Opens Ride Request
+- Sets Destination
+
+---
+
+User:
+
+```text
+ما الفعاليات القادمة؟
+```
+
+Assistant:
+
+- Reads real data from Supabase
+- Lists upcoming events
+- Opens Events page if requested
+
+---
+
+## AI Features
+
+- Arabic NLP
+- English NLP
+- Context Awareness
+- Intent Detection
+- Smart Navigation
+- Automatic Form Filling
+- Crop Image Analysis
+- Real Data Responses
+- Voice Input
+- Voice Output
+- Safe Fallback Mode
+- Conversation Memory
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React
+- HTML5
+- CSS3
+
+---
+
+## Backend
+
+- Supabase Authentication
+- Supabase PostgreSQL
+- Supabase Storage
+- Supabase Row Level Security (RLS)
+
+---
+
+## Artificial Intelligence
+
+- Google Gemini AI
+- Gemini Vision
+- AI Intent Detection
+- AI Crop Analysis
+- AI Form Prefill
+- AI Conversation
+
+---
+
+## Maps
+
+- Browser Geolocation API
+- Google Maps Directions
+
+---
+
+## Development
+
+- Bolt.new
+- GitHub
+- npm
+
+---
+
+# 🔧 Development Tools Used
+
+| Tool | Purpose |
+|-------|----------|
+| Bolt.new | Main Application Development |
+| React | Frontend Framework |
+| TypeScript | Type Safety |
+| Vite | Build Tool |
+| Tailwind CSS | Styling |
+| Supabase | Backend & Database |
+| Supabase Storage | Image Storage |
+| Supabase Auth | Authentication |
+| PostgreSQL | Database |
+| Google Gemini AI | AI Assistant |
+| Gemini Vision | Crop Analysis |
+| GitHub | Version Control |
+| Lucide React | Icons |
+| Browser Geolocation API | GPS |
+| Google Maps | Directions |
+
+---
+
+# 🗄 Database
+
+The platform uses **Supabase PostgreSQL**.
+
+Main Tables
+
+- profiles
+- products
+- product_images
+- product_bids
+- announcements
+- events
+- event_registrations
+- community_reports
+- agriculture_requests
+- health_requests
+- ride_requests
+- emergency_requests
+
+---
+
+# 🏗 System Architecture
+
+```text
+                    User
+                      │
+                      ▼
+             React + TypeScript
+                      │
+         ┌────────────┼────────────┐
+         ▼            ▼            ▼
+   Gemini AI     Supabase      Browser APIs
+         │            │            │
+         │      Authentication     │
+         │      PostgreSQL         │
+         │      Storage            │
+         │      RLS Policies       │
+         │                         │
+         └────────────┬────────────┘
+                      ▼
+              Smart Rural Platform
+```
+
+---
+
+# 🔄 User Workflow
+
+```text
+Resident
+    │
+    ▼
+Login
+    │
+    ▼
+Homepage
+    │
+    ▼
+Choose Service
+    │
+    ▼
+(Optional)
+AI Assistant
+    │
+    ▼
+Requested Service
+    │
+    ▼
+Supabase Database
+    │
+    ▼
+Response
+```
+
+---
+
+# 🔒 Security
+
+The application includes:
+
+## Authentication
+
+- Secure Login
+- Secure Registration
+- Session Management
+
+---
+
+## Database Security
+
+- Row Level Security
+- Admin Role
+- Protected Policies
+- Secure Storage
+- User Ownership
+
+---
+
+## AI Security
+
+- No API Keys Exposed
+- Environment Variables
+- Safe AI Responses
+- Fallback Protection
+
+---
+
+## Admin Dashboard
+
+Admin users can:
+
+- Delete Products
+- Delete Events
+- Delete Reports
+- Delete Announcements
+- Moderate Platform Content
+- Review Registrations
+
+Normal users **cannot** access admin functions.
+
+---
+
+# 🌙 User Experience
+
+- Arabic RTL
+- Responsive Design
+- Dark Mode
+- Mobile Friendly
+- Accessible Interface
+- Smooth Navigation
+- Floating AI Assistant
+- Floating SOS
+- Loading States
+- Error Handling
+- Empty States
+
+---
+
+# 📸 Screenshots
+
+## Homepage
+
+<img src="docs/screenshots/homepage.svg" width="900"/>
+
+---
+
+## AI Assistant
+
+<img src="docs/screenshots/assistant.svg" width="900"/>
+
+---
+
+## Local Marketplace
+
+<img src="docs/screenshots/market.svg" width="900"/>
+
+---
+
+## Admin Dashboard
+
+<img src="docs/screenshots/admin.svg" width="900"/>
+
+---
+
+# 🚀 Installation
+
+Install
+
+```bash
+npm install
+```
+
+Development
+
+```bash
+npm run dev
+```
+
+Production Build
+
+```bash
+npm run build
+```
+
+---
+
+# ⚙ Environment Variables
+
+Create `.env`
+
+```env
+VITE_SUPABASE_URL=
+
+VITE_SUPABASE_ANON_KEY=
+
+VITE_GEMINI_API_KEY=
+```
+
+Bolt Secret
+
+```env
+GEMINI_API_KEY=
+```
+
+Never upload real API Keys.
+
+# 📊 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| Frontend Framework | React 18 |
+| Programming Language | TypeScript |
+| Backend | Supabase |
+| Database | PostgreSQL |
+| AI Model | Google Gemini |
+| Authentication | Supabase Auth |
+| Storage | Supabase Storage |
+| Supported Languages | Arabic / English |
+| Responsive Design | ✅ |
+| Dark Mode | ✅ |
+| AI Assistant | ✅ |
+| Marketplace | ✅ |
+| Auctions | ✅ |
+| Community Reports | ✅ |
+| Events | ✅ |
+| Event Registration | ✅ |
+| Announcements | ✅ |
+| Health Services | ✅ |
+| Agriculture AI | ✅ |
+| Smart Transport | ✅ |
+| Emergency SOS | ✅ |
+| Admin Dashboard | ✅ |
+
+---
+
+# 👥 User Journey
+
+## 👤 Resident
+
+```text
+Register/Login
+        │
+        ▼
+Homepage
+        │
+        ▼
+Choose Service
+        │
+        ▼
+Marketplace
+Events
+Reports
+Transport
+Health
+Agriculture
+Emergency
+AI Assistant
+```
+
+---
+
+## 🌴 Farmer
+
+```text
+Login
+   │
+   ▼
+Marketplace
+   │
+   ▼
+Publish Product
+   │
+   ▼
+Upload Images
+   │
+   ▼
+Sell / Auction
+```
+
+---
+
+## 🏛 Community Organizer
+
+```text
+Login
+   │
+   ▼
+Create Event
+   │
+   ▼
+Publish Announcement
+   │
+   ▼
+Manage Registrations
+```
+
+---
+
+## 👨‍💼 Administrator
+
+```text
+Admin Login
+      │
+      ▼
+Admin Dashboard
+      │
+      ▼
+Review Content
+      │
+      ▼
+Delete / Moderate
+```
+
+---
+
+# 🎯 Why Waha?
+
+Unlike traditional applications, Waha combines all major rural community services into one intelligent Arabic-first platform.
+
+Instead of switching between many systems, residents use one application for:
+
+- Health
+- Agriculture
+- Marketplace
+- Community Reports
+- Events
+- Announcements
+- Smart Transport
+- Emergency
+- Artificial Intelligence
+
+This improves communication, accessibility, and service delivery across rural communities.
+
+---
+
+# 🚀 Future Improvements
+
+Future roadmap includes:
+
+- Push Notifications
+- Mobile Applications (Android / iOS)
+- SMS OTP Verification
+- Municipality Integration
+- Government APIs
+- Weather Forecast Integration
+- AI Recommendations
+- AI Predictive Agriculture
+- Analytics Dashboard
+- Offline Support
+- Multi-language Support
+- QR Check-in for Events
+- Payment Gateway
+- Delivery Services
+- Volunteer Management
+- Real-time Notifications
+
+---
+
+# 🧪 Testing
+
+The project has been tested on:
+
+- Desktop
+- Mobile
+- Tablet
+
+Browsers:
+
+- Google Chrome
+- Microsoft Edge
+- Safari
+- Firefox
+
+Supported:
+
+- Light Mode
+- Dark Mode
+- Arabic RTL
+- Responsive Layout
+
+---
+
+# 📈 Performance
+
+The application focuses on:
+
+- Fast Page Loading
+- Responsive User Experience
+- Lazy Data Loading
+- Secure Authentication
+- Optimized Database Queries
+- Mobile-first Design
+
+---
+
+# 🔑 Environment Configuration
+
+Required:
+
+```env
+VITE_SUPABASE_URL=
+
+VITE_SUPABASE_ANON_KEY=
+
+VITE_GEMINI_API_KEY=
+```
+
+Bolt Secret:
+
+```env
+GEMINI_API_KEY=
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+src/
+ ├── assets/
+ ├── components/
+ ├── utils/
+ ├── lib/
+ ├── App.tsx
+ ├── AssistantPanel.tsx
+ ├── MarketView.tsx
+ ├── EventsView.tsx
+ ├── ReportsView.tsx
+ ├── HealthView.tsx
+ ├── AgricultureView.tsx
+ ├── TransportView.tsx
+ ├── AccountView.tsx
+ ├── AdminView.tsx
+
+public/
+
+supabase/
+ ├── migrations/
+```
+
+---
+
+# 📚 Main Libraries
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+- Lucide React
+- Google Gemini AI
+- Browser Geolocation API
+- Google Maps
+- Bolt.new
+
+---
+
+# 🏆 Hackathon Submission
+
+Project:
+
+**Waha – Smart Rural Services Platform**
+
+Prepared for:
+
+**Tatweer Hackathon 2026**
+
+Partner:
+
+**Athar+**
+
+Challenge Focus:
+
+Connecting residents to services, opportunities, and events through an intelligent rural platform.
+
+---
+
+# 📄 License
+
+MIT License
+
+Copyright (c) 2026 Mohammed Ali Almahboobi Alshehhi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- Tatweer Hackathon
+- Athar+
+- United Arab Emirates University
+- Google Gemini
+- Supabase
+- Bolt.new
+- React Team
+- Vite Team
+- Tailwind CSS
+- Lucide Icons
+- PostgreSQL Community
+
+---
+
+# 👨‍💻 Developer
+
+## Mohammed Ali Almahboobi Alshehhi
+
+United Arab Emirates University
+
+Project:
+
+**Waha – Smart Rural Services Platform**
+
+---
+
+# 📬 Contact
+
+Project Email
+
+YOUR_TEAM_EMAIL@example.com
+
+GitHub
+
+https://github.com/202510085/Waha-Smart-Rural-Services-Platform
+
+Live Demo
+
+https://arabic-rtl-app-ai-as-29nb.bolt.host/
+
+---
+
+<div align="center">
+
+# 🌴 Waha | واحة
+
+### Smart Rural Services Platform
+
+### منصة الخدمات الريفية الذكية
+
+---
+
+**Connecting Rural Communities Through Technology**
+
+**ربط المجتمعات الريفية بالتقنية**
+
+---
+
+⭐ Built with React + TypeScript + Supabase + Google Gemini AI + Bolt.new
+
+Made with ❤️ for **Tatweer Hackathon 2026**
+
+</div>
